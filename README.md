@@ -1,4 +1,5 @@
-# List of xngBlox contacts
+# xngBlox Repo
+<b>List of our contacts</b><br>
 Official xngBlox Website: http://xngblox.rf.gd/ <br>
 Official xngBlox Youtube: https://www.youtube.com/@xngblox/ <br>
 Official xngBlox Discord: https://discord.gg/XPzuKPVv/ <br>
